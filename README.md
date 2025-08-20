@@ -88,7 +88,7 @@ Geminiがいいかな。
 |---|---|---|
 ||||
 
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_Copilit.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_ChatGPT.png?raw=true" width=250 /> 
 
