@@ -48,14 +48,14 @@ BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインを〇�
 ミニマル系って簡素なデザインってことなんだな。
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-|![](https://storage.googleapis.com/zenn-user-upload/42780538d579-20250820.png =300x)|![](https://storage.googleapis.com/zenn-user-upload/57bfce2a0bd5-20250820.png =300x)|![](https://storage.googleapis.com/zenn-user-upload/ae521ab2cd5d-20250820.png =300x)| 
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E7%B3%BB_ChatGPT.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E7%B3%BB_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E7%B3%BB_ChatGPT.png?raw=true" width=250 />| 
 Geminiがいいかな。
 
 ## フラット系
 
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-|![](https://storage.googleapis.com/zenn-user-upload/42780538d579-20250820.png =300x)|![](https://storage.googleapis.com/zenn-user-upload/57bfce2a0bd5-20250820.png =300x)|![](https://storage.googleapis.com/zenn-user-upload/ae521ab2cd5d-20250820.png =300x)| 
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/02_%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%B3%BB_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E7%B3%BB_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E7%B3%BB_ChatGPT.png?raw=true" width=250 />| 
 
 ## マテリアル系
 
