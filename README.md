@@ -74,12 +74,20 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/03_material_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/03_material_ChatGPT.png?raw=true" width=250 /> 
 
-## ニューモーフィズム系     
-## グラスモーフィズム系
-## ダーク系
-## ライト系
-## レトロ系
-## サイバー系
+## ニューモーフィズム系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_ChatGPT.png?raw=true" width=250 /> 
+
+## グラスモーフィズム系     glassmorphism
+## ダーク系                dark
+## ライト系                light
+## レトロ系                retro
+## サイバー系              cyber
 ## ナチュラル系
 ## ポップ系
 ## モノトーン系
@@ -103,8 +111,6 @@ Geminiがいいかな。
 ## アート系
 
 
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをニューモーフィズム系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをグラスモーフィズム系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをダーク系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをライト系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをレトロ系のデザインで描いて欲しい。
