@@ -137,10 +137,46 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/10_natural_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/10_natural_ChatGPT.png?raw=true" width=250 />
 
-## ポップ系                Pop
-## モノトーン系            Monotone
-## カラーブロック系        color block
-## 手描き系                hand-drawn
+## ポップ系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/11_pop_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/11_pop_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/11_pop_ChatGPT.png?raw=true" width=250 />
+
+## モノトーン系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/12_monotone_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/12_monotone_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/12_monotone_ChatGPT.png?raw=true" width=250 />
+
+## カラーブロック系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/13_colorblock_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/13_colorblock_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/13_colorblock_ChatGPT.png?raw=true" width=250 />
+
+
+## 手描き系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/14_hand-drawn_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/14_hand-drawn_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/14_hand-drawn_ChatGPT.png?raw=true" width=250 />
+
+14_hand-drawn_ChatGPT
+
+
 ## アニメ系                Anime
 ## ゲーミフィケーション系
 ## SF系
@@ -159,9 +195,6 @@ Geminiがいいかな。
 ## アート系
 
 
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをモノトーン系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをカラーブロック系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインを手描き系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをアニメ系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをゲーミフィケーション系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをSF系のデザインで描いて欲しい。
