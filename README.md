@@ -176,15 +176,100 @@ Geminiがいいかな。
 
 14_hand-drawn_ChatGPT
 
+## アニメ系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
 
-## アニメ系                Anime
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/15_anime_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/15_anime_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/15_anime_ChatGPT.png?raw=true" width=250 />
+
+15_anime_ChatGPT
+
 ## ゲーミフィケーション系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/16_gamification_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/16_gamification_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/16_gamification_ChatGPT.png?raw=true" width=250 />
+
+16_gamification_ChatGPT
+
 ## SF系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/17_SF_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/17_SF_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/17_SF_ChatGPT.png?raw=true" width=250 />
+
+17_SF_ChatGPT
+
 ## 和風系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/18_JapaneseStyle_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/18_JapaneseStyle_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/18_JapaneseStyle_ChatGPT.png?raw=true" width=250 />
+
+
+18_JapaneseStyle_ChatGPT
+
+
 ## 北欧系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/19_Scandinavian_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/19_Scandinavian_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/19_Scandinavian_ChatGPT.png?raw=true" width=250 />
+
+19_Scandinavian_ChatGPT
+
+
 ## 中東系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/20_MiddleEastern_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/20_MiddleEastern_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/20_MiddleEastern_ChatGPT.png?raw=true" width=250 />
+
+
+20_MiddleEastern_ChatGPT
+
+
 ## 中国系（中華モダン）
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/21_Chinese(ChineseModern)_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/21_Chinese(ChineseModern)_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/21_Chinese(ChineseModern)_ChatGPT.png?raw=true" width=250 />
+
+21_Chinese(ChineseModern)_ChatGPT
+
+
 ## ローファイ系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/22_lo-fi_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/22_lo-fi_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/22_lo-fi_ChatGPT.png?raw=true" width=250 />
+
+22_lo-fi_ChatGPT
+
 ## ハイテク系
 ## インダストリアル系
 ## ファンタジー系
@@ -195,14 +280,6 @@ Geminiがいいかな。
 ## アート系
 
 
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをアニメ系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをゲーミフィケーション系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをSF系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインを和風系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインを北欧系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインを中東系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインを中国系（中華モダン）のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをローファイ系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをハイテク系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをインダストリアル系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをファンタジー系のデザインで描いて欲しい。
