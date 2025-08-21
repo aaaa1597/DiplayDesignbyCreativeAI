@@ -79,29 +79,37 @@ Geminiがいいかな。
 |---|---|---|
 ||||
 
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_Copilit.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_Copilot.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_ChatGPT.png?raw=true" width=250 /> 
 
-## グラスモーフィズム系    glassmorphism
+## グラスモーフィズム系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
 
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_Copilit.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_Copilot.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_ChatGPT.png?raw=true" width=250 /> 
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_ChatGPT.png?raw=true" width=250 />
 
 ## ダーク系                dark
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_ChatGPT.png?raw=true" width=250 />
+
 ## ライト系                light
 ## レトロ系                retro
 ## サイバー系              cyber
-## ナチュラル系
-## ポップ系
-## モノトーン系
-## カラーブロック系
-## 手描き系
-## アニメ系
+## ナチュラル系            natural
+## ポップ系                Pop
+## モノトーン系            Monotone
+## カラーブロック系        color block
+## 手描き系                hand-drawn
+## アニメ系                Anime
 ## ゲーミフィケーション系
 ## SF系
 ## 和風系
@@ -119,7 +127,6 @@ Geminiがいいかな。
 ## アート系
 
 
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをダーク系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをライト系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをレトロ系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをサイバー系のデザインで描いて欲しい。
