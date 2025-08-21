@@ -101,9 +101,33 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_ChatGPT.png?raw=true" width=250 />
 
-## ライト系                light
-## レトロ系                retro
-## サイバー系              cyber
+## ライト系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/07_light_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/07_light_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/07_light_ChatGPT.png?raw=true" width=250 />
+
+## レトロ系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/08_retro_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/08_retro_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/08_retro_ChatGPT.png?raw=true" width=250 />
+
+## サイバー系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/09_cyber_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/09_cyber_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/09_cyber_ChatGPT.png?raw=true" width=250 />
+
 ## ナチュラル系            natural
 ## ポップ系                Pop
 ## モノトーン系            Monotone
@@ -127,9 +151,6 @@ Geminiがいいかな。
 ## アート系
 
 
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをライト系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをレトロ系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをサイバー系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをナチュラル系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをポップ系のデザインで描いて欲しい。
 BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをモノトーン系のデザインで描いて欲しい。
