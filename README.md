@@ -44,7 +44,7 @@ BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインを〇�
 ```
 
 # まとめ
-## ミニマル系
+## 1.ミニマル系
 ミニマル系って簡素なデザインってことなんだな。
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
@@ -53,9 +53,8 @@ BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインを〇�
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_minimal_Copilot.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_minimal_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_minimal_ChatGPT.png?raw=true" width=250 /> 
-Geminiがいいかな。
 
-## フラット系
+## 2.フラット系
 
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
@@ -65,7 +64,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/02_flat_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/02_flat_ChatGPT.png?raw=true" width=250 /> 
 
-## マテリアル系
+## 3.マテリアル系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -74,7 +73,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/03_material_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/03_material_ChatGPT.png?raw=true" width=250 /> 
 
-## ニューモーフィズム系
+## 4.ニューモーフィズム系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -83,7 +82,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_ChatGPT.png?raw=true" width=250 /> 
 
-## グラスモーフィズム系
+## 5.グラスモーフィズム系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -92,7 +91,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_ChatGPT.png?raw=true" width=250 />
 
-## ダーク系
+## 6.ダーク系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -101,7 +100,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_ChatGPT.png?raw=true" width=250 />
 
-## ライト系
+## 7.ライト系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -110,7 +109,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/07_light_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/07_light_ChatGPT.png?raw=true" width=250 />
 
-## レトロ系
+## 8.レトロ系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -119,7 +118,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/08_retro_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/08_retro_ChatGPT.png?raw=true" width=250 />
 
-## サイバー系
+## 9.サイバー系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -128,7 +127,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/09_cyber_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/09_cyber_ChatGPT.png?raw=true" width=250 />
 
-## ナチュラル系
+## 10.ナチュラル系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -137,7 +136,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/10_natural_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/10_natural_ChatGPT.png?raw=true" width=250 />
 
-## ポップ系
+## 11.ポップ系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -146,7 +145,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/11_pop_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/11_pop_ChatGPT.png?raw=true" width=250 />
 
-## モノトーン系
+## 12.モノトーン系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -155,7 +154,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/12_monotone_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/12_monotone_ChatGPT.png?raw=true" width=250 />
 
-## カラーブロック系
+## 13.カラーブロック系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -164,8 +163,7 @@ Geminiがいいかな。
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/13_colorblock_Gemini.png?raw=true" width=250 />
 <img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/13_colorblock_ChatGPT.png?raw=true" width=250 />
 
-
-## 手描き系
+## 14.手描き系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -176,7 +174,7 @@ Geminiがいいかな。
 
 14_hand-drawn_ChatGPT
 
-## アニメ系
+## 15.アニメ系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -187,7 +185,7 @@ Geminiがいいかな。
 
 15_anime_ChatGPT
 
-## ゲーミフィケーション系
+## 16.ゲーミフィケーション系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -198,7 +196,7 @@ Geminiがいいかな。
 
 16_gamification_ChatGPT
 
-## SF系
+## 17.SF系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -209,7 +207,7 @@ Geminiがいいかな。
 
 17_SF_ChatGPT
 
-## 和風系
+## 18.和風系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -222,7 +220,7 @@ Geminiがいいかな。
 18_JapaneseStyle_ChatGPT
 
 
-## 北欧系
+## 19.北欧系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -234,7 +232,7 @@ Geminiがいいかな。
 19_Scandinavian_ChatGPT
 
 
-## 中東系
+## 20.中東系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -247,7 +245,7 @@ Geminiがいいかな。
 20_MiddleEastern_ChatGPT
 
 
-## 中国系（中華モダン）
+## 21.中国系（中華モダン）
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -259,7 +257,7 @@ Geminiがいいかな。
 21_Chinese(ChineseModern)_ChatGPT
 
 
-## ローファイ系
+## 22.ローファイ系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
 ||||
@@ -270,23 +268,88 @@ Geminiがいいかな。
 
 22_lo-fi_ChatGPT
 
-## ハイテク系
-## インダストリアル系
-## ファンタジー系
-## かわいい系
-## エレガント系
-## スポーツ系
-## ビジネス系
-## アート系
+## 23.ハイテク系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/23_hightech_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/23_hightech_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/23_hightech_ChatGPT.png?raw=true" width=250 />
 
 
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをハイテク系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをインダストリアル系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをファンタジー系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをかわいい系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをエレガント系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをスポーツ系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをビジネス系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをアート系のデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをのデザインで描いて欲しい。
-BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインをのデザインで描いて欲しい。
+## 24.インダストリアル系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/24_industrial_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/24_industrial_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/24_industrial_ChatGPT.png?raw=true" width=250 />
+
+## 25.ファンタジー系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/25_fantasy_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/25_fantasy_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/25_fantasy_ChatGPT.png?raw=true" width=250 />
+
+25_fantasy_Copilot
+
+## 26.かわいい系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/26_kawaii_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/26_kawaii_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/26_kawaii_ChatGPT.png?raw=true" width=250 />
+
+## 27.エレガント系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/27_elegant_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/27_elegant_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/27_elegant_ChatGPT.png?raw=true" width=250 />
+
+27_elegant_ChatGPT
+
+## 28.スポーツ系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/28_sport_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/28_sport_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/28_sport_ChatGPT.png?raw=true" width=250 />
+
+28_sport_Gemini
+
+
+## 29.ビジネス系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/29_business_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/29_business_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/29_business_ChatGPT.png?raw=true" width=250 />
+
+29_business_ChatGPT
+
+
+
+## 30.アート系
+|Copilot|Gemini|ChatGPT|
+|---|---|---|
+||||
+
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/30_art_Copilot.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/30_art_Gemini.png?raw=true" width=250 />
+<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/30_art_ChatGPT.png?raw=true" width=250 />
+
+30_art_ChatGPT
