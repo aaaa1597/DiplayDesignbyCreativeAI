@@ -48,308 +48,177 @@ BLE（Bluetooth Low Energy）アプリのAndroid用Scan画面デザインを〇�
 ミニマル系って簡素なデザインってことなんだな。
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_minimal_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_minimal_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_minimal_ChatGPT.png?raw=true" width=250 /> 
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_minimal_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_minimal_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/01_minimal_ChatGPT.png?raw=true" width=250 /> |
 
 ## 2.フラット系
 
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/02_flat_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/02_flat_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/02_flat_ChatGPT.png?raw=true" width=250 /> 
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/02_flat_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/02_flat_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/02_flat_ChatGPT.png?raw=true" width=250 /> |
 
 ## 3.マテリアル系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/03_material_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/03_material_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/03_material_ChatGPT.png?raw=true" width=250 /> 
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/03_material_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/03_material_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/03_material_ChatGPT.png?raw=true" width=250 /> |
 
 ## 4.ニューモーフィズム系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_ChatGPT.png?raw=true" width=250 /> 
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/04_Neumorphism_ChatGPT.png?raw=true" width=250 /> |
 
 ## 5.グラスモーフィズム系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/05_Glassmorphism_ChatGPT.png?raw=true" width=250 />|
 
 ## 6.ダーク系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/06_dark_ChatGPT.png?raw=true" width=250 />|
 
 ## 7.ライト系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/07_light_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/07_light_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/07_light_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/07_light_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/07_light_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/07_light_ChatGPT.png?raw=true" width=250 />|
 
 ## 8.レトロ系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/08_retro_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/08_retro_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/08_retro_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/08_retro_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/08_retro_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/08_retro_ChatGPT.png?raw=true" width=250 />|
 
 ## 9.サイバー系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/09_cyber_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/09_cyber_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/09_cyber_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/09_cyber_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/09_cyber_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/09_cyber_ChatGPT.png?raw=true" width=250 />|
 
 ## 10.ナチュラル系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/10_natural_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/10_natural_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/10_natural_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/10_natural_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/10_natural_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/10_natural_ChatGPT.png?raw=true" width=250 />|
 
 ## 11.ポップ系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/11_pop_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/11_pop_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/11_pop_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/11_pop_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/11_pop_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/11_pop_ChatGPT.png?raw=true" width=250 />|
 
 ## 12.モノトーン系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/12_monotone_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/12_monotone_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/12_monotone_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/12_monotone_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/12_monotone_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/12_monotone_ChatGPT.png?raw=true" width=250 />|
 
 ## 13.カラーブロック系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/13_colorblock_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/13_colorblock_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/13_colorblock_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/13_colorblock_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/13_colorblock_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/13_colorblock_ChatGPT.png?raw=true" width=250 />|
 
 ## 14.手描き系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/14_hand-drawn_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/14_hand-drawn_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/14_hand-drawn_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/14_hand-drawn_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/14_hand-drawn_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/14_hand-drawn_ChatGPT.png?raw=true" width=250 />|
 
 14_hand-drawn_ChatGPT
 
 ## 15.アニメ系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/15_anime_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/15_anime_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/15_anime_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/15_anime_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/15_anime_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/15_anime_ChatGPT.png?raw=true" width=250 />|
 
 15_anime_ChatGPT
 
 ## 16.ゲーミフィケーション系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/16_gamification_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/16_gamification_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/16_gamification_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/16_gamification_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/16_gamification_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/16_gamification_ChatGPT.png?raw=true" width=250 />|
 
 16_gamification_ChatGPT
 
 ## 17.SF系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/17_SF_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/17_SF_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/17_SF_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/17_SF_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/17_SF_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/17_SF_ChatGPT.png?raw=true" width=250 />|
 
 17_SF_ChatGPT
 
 ## 18.和風系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/18_JapaneseStyle_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/18_JapaneseStyle_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/18_JapaneseStyle_ChatGPT.png?raw=true" width=250 />
-
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/18_JapaneseStyle_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/18_JapaneseStyle_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/18_JapaneseStyle_ChatGPT.png?raw=true" width=250 />|
 
 18_JapaneseStyle_ChatGPT
-
 
 ## 19.北欧系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/19_Scandinavian_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/19_Scandinavian_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/19_Scandinavian_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/19_Scandinavian_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/19_Scandinavian_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/19_Scandinavian_ChatGPT.png?raw=true" width=250 />|
 
 19_Scandinavian_ChatGPT
-
 
 ## 20.中東系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/20_MiddleEastern_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/20_MiddleEastern_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/20_MiddleEastern_ChatGPT.png?raw=true" width=250 />
-
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/20_MiddleEastern_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/20_MiddleEastern_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/20_MiddleEastern_ChatGPT.png?raw=true" width=250 />|
 
 20_MiddleEastern_ChatGPT
-
 
 ## 21.中国系（中華モダン）
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/21_Chinese(ChineseModern)_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/21_Chinese(ChineseModern)_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/21_Chinese(ChineseModern)_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/21_Chinese(ChineseModern)_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/21_Chinese(ChineseModern)_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/21_Chinese(ChineseModern)_ChatGPT.png?raw=true" width=250 />|
 
 21_Chinese(ChineseModern)_ChatGPT
-
 
 ## 22.ローファイ系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/22_lo-fi_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/22_lo-fi_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/22_lo-fi_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/22_lo-fi_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/22_lo-fi_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/22_lo-fi_ChatGPT.png?raw=true" width=250 />|
 
 22_lo-fi_ChatGPT
 
 ## 23.ハイテク系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/23_hightech_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/23_hightech_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/23_hightech_ChatGPT.png?raw=true" width=250 />
-
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/23_hightech_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/23_hightech_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/23_hightech_ChatGPT.png?raw=true" width=250 />|
 
 ## 24.インダストリアル系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/24_industrial_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/24_industrial_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/24_industrial_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/24_industrial_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/24_industrial_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/24_industrial_ChatGPT.png?raw=true" width=250 />|
 
 ## 25.ファンタジー系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/25_fantasy_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/25_fantasy_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/25_fantasy_ChatGPT.png?raw=true" width=250 />
-
-25_fantasy_Copilot
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/25_fantasy_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/25_fantasy_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/25_fantasy_ChatGPT.png?raw=true" width=250 />|
 
 ## 26.かわいい系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/26_kawaii_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/26_kawaii_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/26_kawaii_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/26_kawaii_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/26_kawaii_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/26_kawaii_ChatGPT.png?raw=true" width=250 />|
 
 ## 27.エレガント系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/27_elegant_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/27_elegant_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/27_elegant_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/27_elegant_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/27_elegant_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/27_elegant_ChatGPT.png?raw=true" width=250 />|
 
 27_elegant_ChatGPT
 
 ## 28.スポーツ系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/28_sport_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/28_sport_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/28_sport_ChatGPT.png?raw=true" width=250 />|
 
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/28_sport_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/28_sport_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/28_sport_ChatGPT.png?raw=true" width=250 />
-
-28_sport_Gemini
+28_sport_ChatGPT
 
 
 ## 29.ビジネス系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/29_business_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/29_business_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/29_business_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/29_business_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/29_business_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/29_business_ChatGPT.png?raw=true" width=250 />|
 
 29_business_ChatGPT
-
-
 
 ## 30.アート系
 |Copilot|Gemini|ChatGPT|
 |---|---|---|
-||||
-
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/30_art_Copilot.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/30_art_Gemini.png?raw=true" width=250 />
-<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/30_art_ChatGPT.png?raw=true" width=250 />
+|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/30_art_Copilot.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/30_art_Gemini.png?raw=true" width=250 />|<img src="https://github.com/aaaa1597/AndroidDiplayDesign-CreatedByAIs/blob/main/30_art_ChatGPT.png?raw=true" width=250 />|
 
 30_art_ChatGPT
